@@ -691,7 +691,6 @@
 
 
 # =========================================================================================
-<<<<<<< HEAD
 # Mock CCC '14 S3
 # https://dmoj.ca/problem/mockccc14s3
 # sort lists through one index of each list
@@ -712,8 +711,3 @@
 # for i in range(height):
 #     print(*spreadsheet[i])
 
-=======
-
-a = [1, 2, 3]
-print(a[1:2])
->>>>>>> 4ee88b59feed55f814ad0d6050fa3c3013b0922e
