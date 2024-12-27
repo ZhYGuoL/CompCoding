@@ -25,3 +25,4 @@ print(S)
 wordgenerator = input().lower()
 print(palindromecreator(wordgenerator))
 >>>>>>> 5e0346e1acef0d658655888ca5c68f3c6ef71e63
+
